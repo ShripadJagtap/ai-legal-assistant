@@ -39,7 +39,7 @@ Below is an image illustrating the internal workflow and system architecture:
 - Fork this repo to your GitHub account.
 - Clone it locally:
     ```
-    git clone https://github.com/YOURUSERNAME/ai-legal-assistant-crewai.git
+    git clone https://github.com/YOURUSERNAME/ai-legal-assistant.git
     cd ai-legal-assistant-crewai
     ```
 
