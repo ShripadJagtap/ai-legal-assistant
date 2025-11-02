@@ -26,4 +26,3 @@ case_intake_agent = Agent(
     tools=[],
     verbose=True,
 )
-

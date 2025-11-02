@@ -209,3 +209,5 @@ __marimo__/
 
 # data folders and files
 chroma_vectordb
+.env
+.env
