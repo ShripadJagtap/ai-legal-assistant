@@ -3,7 +3,14 @@
 A locally hosted AI legal assistant designed to help users understand and resolve legal issues based on the **Indian Penal Code (IPC)**. Built using the powerful **CrewAI** framework, this project orchestrates multiple expert agents—making Indian law accessible through simple natural language queries.
 
 ---
+## 🌐 Try It Live
 
+**One-click Web App:**  
+👉 [https://ai-legal-assistant-48b9.onrender.com/](https://ai-legal-assistant-48b9.onrender.com/)
+
+Interact with the tool and explore Indian Penal Code guidance, precedent search, or legal document drafting through a simple Streamlit interface—no installation needed!
+
+---
 ## 🌟 Project Overview
 
 This assistant lets anyone describe a real-world legal scenario (such as theft, threat, harassment, or property issues) in plain language. The system then automatically analyzes the case, retrieves relevant IPC sections, finds matching legal precedents, and, if requested, drafts legal documents—all directly in your browser via a simple Streamlit UI.
